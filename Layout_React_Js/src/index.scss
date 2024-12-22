@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.header {
+  background-color: red;
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.footer {
+  background-color: blue;
+  color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+
+.navbar {
+
+  background-color: green;
+  /* color: white; */
+  width: 30%;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.content {
+
+  background-color: yellow;
+  /* color: white; */
+  width: 70%;
+  padding: 100px 0;
+  text-align: center;
+}
